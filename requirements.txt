@@ -1,0 +1,32 @@
+# requirements.txt
+
+# Core libraries
+torch==1.13.1
+numpy==1.24.2
+pandas==1.5.2
+
+# XR specific libraries
+openxr==0.1.4
+pyglfw==1.18.0
+
+# Image processing and computer vision
+pillow==9.4.0
+opencv-python==4.6.0
+
+# Scientific computing and data manipulation
+scipy==1.9.3
+scikit-learn==1.1.1
+
+# Data visualization
+matplotlib==3.7.1
+
+# Testing and development
+pytest==7.2.1
+flake8==4.0.1
+
+# Additional utilities
+pyyaml==6.0
+requests==2.28.1
+
+# Note: Ensure that all packages are compatible and there are no conflicting dependencies.
+# Update the versions as needed to ensure compatibility with the project's requirements.
