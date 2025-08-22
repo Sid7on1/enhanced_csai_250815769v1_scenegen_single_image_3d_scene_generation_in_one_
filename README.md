@@ -1,0 +1,2 @@
+# enhanced_csai_250815769v1_scenegen_single_image_3d_scene_generation_in_one_
+AI-Generated Project: enhanced_cs.AI_2508.15769v1_SceneGen_Single_Image_3D_Scene_Generation_in_One_ - Created by WATCHDOG Multi-Agent System
